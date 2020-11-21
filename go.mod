@@ -1,4 +1,4 @@
-module github.com/ahmdrz/goinsta/v2
+module github.com/felipeinf/haipgoinsta
 
 go 1.12
 
